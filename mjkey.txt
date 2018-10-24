@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 118996, type 6.
+
+Issued to Angran <lar@cs.toronto.edu>.
+
+Expires November 22, 2018.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_nAs_NSB0RD8TSSP0X982g0a1u1ODS35mJ20058
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+112d26c53bfee53521776f0b0a5d8770d394cda5fc6ca940c6cdf6717f37c49d
+a10ad328c8d97f9e1fd902c43f21c85e266e7efe0e911afc340207381fb8acce
+bc4474a4835abf712afefd90c93c3649724d7b43f28a74ea8a6d02774a461398
+fe6ab445eb5bde66183223da65d844237f3e7150dc58df6f91e1a4c26104890f
+b5e2e2f20d88223c7b12dbc1cb8522b963d2ab38182c6b43a10f6c099968df42
+0694dc8bd5603b24749470e70dca8f1b58b042951dc5a379142bffd8d04908d3
+817a31f995d9f07f76c6b0bd7b0e1386e38850f75b11aca8a02016896834bb4e
+fc708ec4982f589f2ab40b3372f7694ec808ce76e8d7acbee1e1a7729b93f255
